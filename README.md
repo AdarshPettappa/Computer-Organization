@@ -22,6 +22,10 @@ I engaged in projects that bridge the gap between high-level programming and har
 
 ---
 
-*Note: Project details cannot be publicly disclosed due to academic policies.*
+*Note: Project details cannot be publicly disclosed due to academic policies.However, please contact me if you would like to look at the project code. A detailed descriptions of each project’s key functionalities and the technical concepts applied are provided below to highlight my technical expertise and problem-solving skills.*
+
+## Acknowledgements
+
+Special thanks to University of Michigan, my teammates and the EECS370 staffs for providing the resources and environment to build these application.
 
 
