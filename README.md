@@ -13,6 +13,13 @@ I engaged in projects that bridge the gap between high-level programming and har
 - **Design and Simulation of Hardware:** I am able to describe hardware components in detail, design them using diagrams, and simulate their operations using hardware simulators.
 - **Low-Level Programming Skills:** Developed practical skills in Assembly language, enabling you to interact with the hardware and understand how instructions are processed at the machine level.
 
+## List of projects and their specifications 
+
+- [Project 1: Compiler and Simulator Suite](https://eecs370.github.io/project_1_spec/)
+- [Project 2: Building Assembler and Linker](https://eecs370.github.io/project_2_spec/)
+- [Project 3: Pipeline implementation of the LC-2K](https://eecs370.github.io/project_3_spec/)
+- [Project 4: Simulate a CPU cache](https://eecs370.github.io/project_4_spec/)
+
 ---
 
 *Note: Project details cannot be publicly disclosed due to academic policies.*
